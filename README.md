@@ -1,2 +1,2 @@
-# rng
+# RNG
 rng app
